@@ -1,5 +1,8 @@
 _repo: For-the-Story-Teller-Story-Telling-and-Stories-to-Tell_58107
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58107-h/images/cover.jpg
 creator:
   author:
     agent_name: Bailey, Carolyn Sherwin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8801
     wikipedia: http://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58107#For-the-Story-Teller-Story-Telling-and-Stories-to-Tell
 gutenberg_issued: '2018-10-15'
 gutenberg_type: Text
 identifiers:
